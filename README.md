@@ -1,7 +1,6 @@
 
           
-## Olá eu sou o Kley, desenvolvedor Python, estudante de engenharia e tecnologia! Atualmente estou me aprofundando em Data Sciente, criando um base solida em ferramentas de analise como o Python, SQL e Frameworks (Django e Flask) para desenvolvimento de aplicações WEB
-
+## Olá eu sou o Kley, desenvolvedor Python, estudante de engenharia e tecnologia! 
 <div align="center">
   <a href="https://github.com/Kleysn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleysn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
