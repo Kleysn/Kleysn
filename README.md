@@ -8,7 +8,8 @@
 </div>
 <div align="center"><br>
   <img align="center" alt="Kley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="">
+  <img align="center" alt="Kley-HTML" height="30" width="40" src="">
+  <img align="center" alt="Kley-HTML" height="30" width="40" src="https://img.icons8.com/fluency/512/javascript.png">
   <img align="center" alt="Kley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
               <img align="center" alt="Kley-HTLM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
