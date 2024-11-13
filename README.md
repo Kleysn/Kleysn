@@ -1,6 +1,6 @@
 
           
-## Olá eu sou Kley, desenvolvedor Full Stack, estudante de engenharia e tecnologia!
+## Olá eu sou Kley!
 
 <div align="center">
   <a href="https://github.com/Kleysn">
