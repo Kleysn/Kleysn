@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Kleiton Santos 👋</h1>
+<h1 align="center">Kleiton Santos</h1>
 
-<h3 align="center">Data Analytics Engineer | GCP · BigQuery · Airflow · dbt · GenAI</h3>
+<h3 align="center">Senior Data Analytics Engineer | GCP · BigQuery · Airflow · dbt · GenAI</h3>
 
 <p align="center">
   <a href="mailto:kleiotnsantosn@gmail.com">
@@ -15,20 +15,20 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Data & Analytics Engineer with a strong track record at large corporations such as **Ambev** and **Grupo Boticário**. I work at the intersection of **technology, finance, and logistics**, focused on operational efficiency and mitigating financial losses for the business.
 
-- 🔭 Currently working as **Data Analytics Engineer III @ Grupo Boticário**, leading governance, architecture, and delivery of analytical products and AI automations
-- 🏗️ Specialized in **layered data pipelines** (Raw / Trusted / Refined), data quality, observability, and automated testing at scale
-- 🤖 Applying **Generative AI and AI Agents** to automate and optimize complex analytical processes
-- 📊 Built high-impact analytical products: TPV monitors, financial health analyses (GMV, margin, EBITDA), and predictive logistics models
-- 🎓 MBA in **Data Science & Analytics @ USP** (2025–2027) | B.Sc. in Production Engineering @ UESC
-- 🌎 Portuguese (native) · English (advanced)
+- Currently working as **Senior Data Analytics Engineer @ Grupo Boticário**, leading governance, architecture, and delivery of analytical products and AI automations
+- Specialized in **layered data pipelines** (Raw / Trusted / Refined), data quality, observability, and automated testing at scale
+- Applying **Generative AI and AI Agents** to automate and optimize complex analytical processes
+- Built high-impact analytical products: TPV monitors, financial health analyses (GMV, margin, EBITDA), and predictive logistics models
+- MBA in **Data Science & Analytics @ USP** (2025–2027) | B.Sc. in Production Engineering @ UESC
+- Portuguese (native) · English (advanced)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
@@ -78,17 +78,17 @@ Data & Analytics Engineer with a strong track record at large corporations such 
 
 ---
 
-## 💼 Highlights
+## Highlights
 
-- 💰 Detected and fixed failures in a **Pix payment flow** that were causing losses of up to **14% of a channel's revenue**
-- ⏱️ Automated operational and logistics flows, saving **112+ hours/month** of manual work
-- 🚚 Designed predictive models for route optimization, **reducing delivery lead time by 12%**
-- 📈 Built pipelines with **dbt + BigQuery** unifying TMS and inventory APIs, reducing shipping stockouts by 15%
-- 🤖 Developed **AI agents** and GenAI automations for API connections, data cleaning, enrichment, and analysis
+- Detected and fixed failures in a **Pix payment flow** that were causing losses of up to **14% of a channel's revenue**
+- Automated operational and logistics flows, saving **112+ hours/month** of manual work
+- Designed predictive models for route optimization, **reducing delivery lead time by 12%**
+- Built pipelines with **dbt + BigQuery** unifying TMS and inventory APIs, reducing shipping stockouts by 15%
+- Developed **AI agents** and GenAI automations for API connections, data cleaning, enrichment, and analysis
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kleysn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
