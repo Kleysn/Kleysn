@@ -31,7 +31,7 @@ Data & Analytics Engineer with a strong track record at large corporations such 
 - **Exploring:** Generative AI and AI Agents to automate and optimize complex analytical processes.
 - **Product Focus:** Building high-impact analytical products like TPV monitors, financial health analyses (GMV, margin, EBITDA), and predictive logistics models.
 - **Education:** MBA in Data Science & Analytics @ USP (2025–2027) | B.Sc. in Production Engineering @ UESC.
-- **Languages:** Portuguese (Native) · English (Advanced).
+- **Languages:** Portuguese (Native) · English (C1).
 
 ---
 
