@@ -4,7 +4,7 @@
 
 **Senior Data Analytics Engineer | Turning Data into Business Value**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=669DF6&center=true&vCenter=true&width=500&lines=GCP+·+BigQuery+·+Airflow+·+dbt;Generative+AI+·+Python+·+PySpark;Data+Engineering+at+Scale" alt="Typing SVG" />
+
 
 <br>
 
@@ -61,10 +61,10 @@ Data & Analytics Engineer with a strong track record at large corporations such 
 
 <div align="center">
   <a href="https://github.com/Kleysn">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kleysn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+   
   </a>
   <a href="https://github.com/Kleysn">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kleysn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+    
   </a>
 </div>
 
